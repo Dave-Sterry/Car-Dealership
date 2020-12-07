@@ -1,0 +1,11 @@
+/Users/Dsterry/Desktop/Epicodus/dealership/obj/Debug/netcoreapp2.2/car.csprojAssemblyReference.cache
+/Users/Dsterry/Desktop/Epicodus/dealership/obj/Debug/netcoreapp2.2/car.csproj.CoreCompileInputs.cache
+/Users/Dsterry/Desktop/Epicodus/dealership/obj/Debug/netcoreapp2.2/car.AssemblyInfoInputs.cache
+/Users/Dsterry/Desktop/Epicodus/dealership/obj/Debug/netcoreapp2.2/car.AssemblyInfo.cs
+/Users/Dsterry/Desktop/Epicodus/dealership/bin/Debug/netcoreapp2.2/car.deps.json
+/Users/Dsterry/Desktop/Epicodus/dealership/bin/Debug/netcoreapp2.2/car.runtimeconfig.json
+/Users/Dsterry/Desktop/Epicodus/dealership/bin/Debug/netcoreapp2.2/car.runtimeconfig.dev.json
+/Users/Dsterry/Desktop/Epicodus/dealership/bin/Debug/netcoreapp2.2/car.dll
+/Users/Dsterry/Desktop/Epicodus/dealership/bin/Debug/netcoreapp2.2/car.pdb
+/Users/Dsterry/Desktop/Epicodus/dealership/obj/Debug/netcoreapp2.2/car.dll
+/Users/Dsterry/Desktop/Epicodus/dealership/obj/Debug/netcoreapp2.2/car.pdb
